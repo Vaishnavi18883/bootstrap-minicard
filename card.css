@@ -2,10 +2,6 @@
     padding: 5px;
     background-color: rgb(234, 230, 226);
 }
-
-
-
-
 h1{
     text-align: center;
     background-color: rgb(5, 133, 5);
@@ -38,5 +34,6 @@ display: flex;
 .cols>h2:hover{
     color: rgb(54, 235, 235);
 }
+
 
     
