@@ -1,0 +1,42 @@
+*{
+    padding: 5px;
+    background-color: rgb(234, 230, 226);
+}
+
+
+
+
+h1{
+    text-align: center;
+    background-color: rgb(5, 133, 5);
+}
+.portfolio{
+    font-weight: 300;
+}
+
+.cols{
+display: flex;
+    height: 70vh;
+    /* border: 2px solid red; */
+    gap: 20px;
+}
+.cols:hover{
+    top: -20px;
+    position: relative;
+    transition: all 0.3s ease;
+    box-shadow: -10px 41px 66px 24px
+              rgba(90,102,116,0.62);
+}
+.cols>img{
+    width: 100%;
+    height: 20%;
+}
+.cols>h2{
+    text-align: center;
+    color: rgb(10, 151, 163);
+}
+.cols>h2:hover{
+    color: rgb(54, 235, 235);
+}
+
+    
